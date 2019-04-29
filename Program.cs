@@ -90,17 +90,8 @@ namespace dotnet_core_new
 
         public void Configure(IApplicationBuilder app)
         {
-            // app.UseDeveloperExceptionPage();
-
             app.UseMvc();
-
-            //app.Use(async (context, next) =>
-            //{
-            //    await context.Response.WriteAsync("Pre Processing");
-            //    await next();
-            //    await context.Response.WriteAsync("Post Processing");
-            //});
-
+           
             // Handler of last Resort
             app.Run(async (context) =>
             {
