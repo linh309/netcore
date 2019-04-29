@@ -1,0 +1,11 @@
+D:\Coding\dotnet-core-new\bin\Debug\netcoreapp2.1\dotnet-core-new.deps.json
+D:\Coding\dotnet-core-new\bin\Debug\netcoreapp2.1\dotnet-core-new.runtimeconfig.json
+D:\Coding\dotnet-core-new\bin\Debug\netcoreapp2.1\dotnet-core-new.runtimeconfig.dev.json
+D:\Coding\dotnet-core-new\bin\Debug\netcoreapp2.1\dotnet-core-new.dll
+D:\Coding\dotnet-core-new\bin\Debug\netcoreapp2.1\dotnet-core-new.pdb
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.csprojAssemblyReference.cache
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.csproj.CoreCompileInputs.cache
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.AssemblyInfoInputs.cache
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.AssemblyInfo.cs
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.dll
+D:\Coding\dotnet-core-new\obj\Debug\netcoreapp2.1\dotnet-core-new.pdb
